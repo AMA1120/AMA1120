@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![@ama1120's Holopin board](https://holopin.me/ama1120)](https://holopin.io/@ama1120)
-[![@ama1120's Holopin board](https://holopin.me/ama1120)](https://holopin.io/@ama1120)
+
 <!--
 **AMA1120/AMA1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
