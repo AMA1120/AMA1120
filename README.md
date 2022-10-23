@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ama Weerasinghe /n
+I am Ama Weerasinghe \n
 Undergaduate at Plymouth University UK (Bsc. in Software Engineering)
 
 [![@ama1120's Holopin board](https://holopin.me/ama1120)](https://holopin.io/@ama1120)
