@@ -8,5 +8,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning C,C#,Python,Javascript,JAVA, etc. 
+- 🌱 I’m skiiled in C,C#,Python,Javascript & JAVA
+  
 
