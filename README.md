@@ -7,11 +7,7 @@
   </a>
 </p>
 
----
 
-💡 I’m a passionate and versatile tech enthusiast who enjoys turning complex challenges into elegant, scalable solutions.
-
----
 
 ## 🧠 About Me
 
