@@ -1,43 +1,73 @@
-# Hi there 👋  
-## I'm Ama Weerasinghe
+<h1 align="center">Hi there 👋, I'm Ama Weerasinghe</h1>
+<h3 align="center">A curious mind passionate about building real-world tech solutions</h3>
 
-//🎓 A proud graduate with a **Second Upper-Class Honours** degree in **BSc. Software Engineering** from **Plymouth University (UK)**.
-
-[![@ama1120's Holopin board](https://holopin.me/ama1120)](https://holopin.io/@ama1120)
+<p align="center">
+  <a href="https://holopin.io/@ama1120">
+    <img src="https://holopin.me/ama1120" alt="@ama1120's Holopin board" />
+  </a>
+</p>
 
 ---
 
-### 💡 About Me
+💡 I’m a passionate and versatile tech enthusiast who enjoys turning complex challenges into elegant, scalable solutions.
 
-I'm a passionate and versatile tech professional who thrives at the intersection of technology and business. With a strong foundation in **Software Engineering**, I enjoy solving complex problems and delivering practical, innovative solutions.
+---
 
-My interests span across:
+## 🧠 About Me
+
+🚀 Tech excites me because it blends **logic**, **creativity**, and **impact**. I enjoy working at the **intersection of tech & business**, bringing together strategy and execution.
+
+🛠️ I love exploring and contributing to areas such as:
 
 - 💻 **Full Stack & Mobile Development**
 - 📊 **Data Engineering & Data Science**
-- 🧪 **Testing & Quality Assurance**
-- 🔍 **Business Analysis & Project Planning**
-
-Whether it's developing scalable web apps, building insightful data pipelines, or bridging communication between tech and non-tech teams—I love contributing to impactful, data-driven projects.
-
----
-
-### 🛠️ Skills
-
-- **Programming Languages**: C, C#, Python, JavaScript, Java  
-- **Tools & Frameworks**: React, Node.js, .NET, Django, Flask, SQL, Git, Docker  
-- **Concepts**: Object-Oriented Design, REST APIs, Agile & Scrum, DevOps basics  
-- **Interests**: AI/ML, Data Pipelines, UI/UX, Cloud Computing
+- 🧪 **Testing & Automation**
+- 🔍 **Business Analysis & Agile Planning**
+- 🌐 **Cloud & DevOps Basics**
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amaweerasinghe)
-- 📜 [Holopin](https://holopin.io/@ama1120)
-- 🌐 [Portfolio Website](#) *(if available)*
+### 💻 Languages  
+`C` `C#` `Python` `Java` `JavaScript` `Dart` (Flutter)
+
+### ⚙️ Tools & Frameworks  
+`React` `Node.js` `.NET` `Flutter` `SQL` `Firebase` `Git` `Docker` `Postman` `VS Code`
+
+### 🧩 Concepts  
+`Object-Oriented Design` `REST APIs` `Agile & Scrum` `MVC` `DevOps Basics` `Data Pipelines`
 
 ---
 
-> “Code is not just code—it’s a tool to empower ideas, people, and progress.”
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ama1120&show_icons=true&theme=radical" alt="Ama's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ama1120&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amaweerasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://holopin.io/@ama1120" target="_blank">
+    <img src="https://img.shields.io/badge/-Holopin-9c27b0?style=for-the-badge&logo=holopin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 🧠 _"Code is not just code—it’s a tool to empower ideas, people, and progress."_
+
+---
+
+<!-- Optional fun badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ama1120&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://badges.pufler.dev/visits/ama1120/ama1120" alt="visits" />
+</p>
