@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ama Weerasinghe</h1>
+<h1 align="center">Hi there👋 I'm Ama Weerasinghe</h1>
 <h3 align="center">A curious mind passionate about building real-world tech solutions</h3>
 
 <p align="center">
