@@ -48,7 +48,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ama-weerasinghe-831695250">
+  <a href="https://rb.gy/jpljb0">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://holopin.io/@ama1120" target="_blank">
